@@ -1,4 +1,4 @@
-# raslla_call
+# Raslla Call Autodialer App
 
 An autodialer application built for people working in sales. They need to upload a CSV or XLS file containing a list of names and numbers. This application allows a user to call a bulk of numbers, one by one, automatically. Apart from this, they can categorize the numbers into different groups. The application also allows users to attach a note to any number. This application was fully built-in Flutter for Android and iOS.
 
